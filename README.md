@@ -3,7 +3,7 @@
 My name is Alexander Pozdniakov, 24 y.o. I am a mobile developer. Mostly work with Android but also have a bit of an experience in iOS development.
 
 ### Education
-Bachelor's degree in Information Security from Donetsk National University.
+Master's degree in Information Security from Donetsk National University.
 
 ### Work experience:
 
