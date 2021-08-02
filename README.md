@@ -18,7 +18,7 @@ Experience: server-client interaction with sockets, multithreading, low-load dat
 
 * Russian (Native speaker)
 * Ukrainian (Proficient)
-* English (Upper intermediate)
+* English (Upper intermediate): [EF SET English Certificate 83/100 (C2 Proficient)](https://www.efset.org/cert/ddkyVJ)
 * French (Beginner)
 
 #### Contacts
