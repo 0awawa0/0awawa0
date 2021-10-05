@@ -21,6 +21,10 @@ Experience: server-client interaction with sockets, multithreading, low-load dat
 * English (Upper intermediate): [EF SET English Certificate 83/100 (C2 Proficient)](https://www.efset.org/cert/ddkyVJ)
 * French (Beginner)
 
+#### CodersRank
+
+![img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=0awawa0&skills=Java,Kotlin,Python,Swift&bg=%23dbdbdb&width=1280&height=720&padding=24)
+
 #### Contacts
 
 Linkedin: https://www.linkedin.com/in/awawa/
