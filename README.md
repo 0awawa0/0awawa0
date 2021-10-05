@@ -22,7 +22,7 @@ Experience: server-client interaction with sockets, multithreading, low-load dat
 * French (Beginner)
 
 #### CodersRank
-
+![badges](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=0awawa0)
 ![img](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=0awawa0&skills=Java,Kotlin,Python,Swift&bg=%23dbdbdb&width=1280&height=720&padding=24)
 
 #### Contacts
