@@ -29,8 +29,6 @@ Experience: server-client interaction with sockets, multithreading, low-load dat
 
 Linkedin: https://www.linkedin.com/in/awawa/
 
-Telegram: [@awawa0_0](https://t.me/awawa0_0)
-
 E-mail: mail.0awawa0@gmail.com
 
 Personal blog: [Мысленарий](https://t.me/thinkatorium)
